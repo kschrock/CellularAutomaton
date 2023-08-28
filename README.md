@@ -2,6 +2,7 @@
 Submitted by: **Kordell Schrock**
 
 ## Application Features
+![](https://media.giphy.com/media/A9EIHCIKNc4lyS8So1/giphy.gif)
 
 ### Core Features
 - [X] **GraphicsClient( std::string, int )** A constructor with two parameters for GraphicsClient.
