@@ -1,4 +1,4 @@
-# coms327P2, Part A
+# coms327 Project
 Submitted by: **Kordell Schrock**
 
 ## Application Features
