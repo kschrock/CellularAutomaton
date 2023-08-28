@@ -86,6 +86,11 @@ projects.
 ### the main logic is in the default constructor, did not have time to move over to main. 
 ### working video of simulation called "Working Simulator" in this folder.
 
+### You need 2 terminals to run this, one for Server and one for compiling makeFile
+
+### Step to run local Server
+1. java -jar GraphicsServerV2.jar 7777
+
 ### Steps to run makeFile
 1. make gol 
 2. ./gol 
